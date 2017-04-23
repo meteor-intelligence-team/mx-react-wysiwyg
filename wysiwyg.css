@@ -1,0 +1,59 @@
+.RichEditor-root {
+  min-height: 150px;
+  overflow-y: auto;
+}
+
+.RichEditor-root .toolbar {
+  padding: 5px;
+  background: #eee;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.RichEditor-controls {
+  margin-right: 10px !important;
+  background-color: #fff !important;
+}
+
+.RichEditor-controls .button {
+  background-color: #fff !important;
+}
+
+.RichEditor-controls .active.button {
+  background-color: rgba(0,0,0,.05)!important;
+}
+
+.RichEditor-editor{
+  min-height: 250px;
+  padding: 10px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  cursor: text;
+  min-width: 100%;
+  font-size: 16px;
+  margin-top: 10px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.RichEditor-editor blockquote {
+  margin:0;
+  padding: 10px;
+  margin: 15px;
+  border: 1px solid grey;
+  background: #eee;
+  border-radius: 5px;
+}
+.RichEditor-editor pre,
+.wysiwyg-result pre {
+    white-space: pre-wrap;
+}
+
+.wysiwyg-result  blockquote {
+  margin:0;
+  padding: 10px;
+  margin: 15px;
+  border: 1px solid grey;
+  background: #eee;
+  border-radius: 5px;
+}

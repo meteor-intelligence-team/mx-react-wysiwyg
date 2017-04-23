@@ -1,0 +1,41 @@
+{
+  "name": "mx-react-wysiwyg",
+  "version": "0.1.1",
+  "description": "React visual rich text editor with many options..",
+  "main": "index.js",
+  "dependencies": {
+    "draft-js": "~2.1.1",
+    "draft-js-export-html": "^0.5.0",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "semantic-ui-css": "^2.0.0"
+  },
+  "peerDependencies": {
+    "react": ">=0.13.0"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.23.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meteor-intelligence-team/mx-react-wysiwyg"
+  },
+  "keywords": [
+    "react",
+    "wysiwyg",
+    "editor",
+    "draft-js",
+    "rich",
+    "text",
+    "component",
+    "javascript",
+    "react-component"
+  ],
+  "author": "Francois AUBEUT",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meteor-intelligence-team/mx-react-wysiwyg/issues"
+  },
+  "homepage": "https://github.com/meteor-intelligence-team/mx-react-wysiwyg"
+}
