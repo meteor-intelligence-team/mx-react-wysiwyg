@@ -1,7 +1,7 @@
 # react-wysiwyg
 
-[![npm version](https://badge.fury.io/js/react-share.svg)](https://badge.fury.io/js/react-share)
-[![Download Count](http://img.shields.io/npm/dm/react-share.svg?style=flat-square)](https://npmjs.org/package/react-share)
+[![npm version](https://badge.fury.io/js/mx-react-wysiwyg.svg)](https://badge.fury.io/js/mx-react-wysiwyg.svg)
+[![Download Count](https://img.shields.io/npm/dm/mx-react-wysiwyg.svg?style=flat-square)](https://www.npmjs.com/package/mx-react-wysiwyg)
 
 > Simple [React](http://facebook.github.io/react/index.html) component for
 > a rich editor text and the conversion to render HTML
@@ -82,12 +82,3 @@ class App extends Component {
 ---
 
 MIT Licensed
-
-[npm-image]: https://img.shields.io/npm/v/react-social.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/react-social
-[downloads-image]: http://img.shields.io/npm/dm/react-social.svg?style=flat-square
-[downloads-url]: https://npmjs.org/package/react-social
-[travis-image]: https://img.shields.io/travis/olahol/react-social/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/olahol/react-social
-[dep-image]: https://david-dm.org/olahol/react-social/peer-status.svg?style=flat-square
-[dep-url]: https://david-dm.org/olahol/react-social
