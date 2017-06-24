@@ -30,7 +30,7 @@ class App extends Component {
     this.setState({content})
   }
 
-  render {
+  render() {
 
     const { content } = this.state
 
@@ -38,11 +38,11 @@ class App extends Component {
       <div>
       <Wysiwyg
         onChange={this.updateValue.bind(this)}
-        value={this.state.value}
+        value={this.state.content}
       />
 
       <ConvertToHTML
-        html={this.state.value}
+        html={this.state.content}
       />
       </div>
     );
